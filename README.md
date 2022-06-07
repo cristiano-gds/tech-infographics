@@ -20,7 +20,13 @@
 
 xxx
 
-## Contacts
+## :black_nib: Contributions
+
+Contributions are welcome! :heart_eyes:
+
+Contact me for more details.
+
+## :phone: Contacts
 
 Cristiano Santos - <a href="https://www.linkedin.com/in/cristianogds/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> - cristianogds@gmail.com
 
